@@ -1,4 +1,4 @@
-# AI_agent_for_dataset
+# Natural-Language-Data-Query-Assistant
 
 ## Description:
 Created an interactive Streamlit application that leverages OpenAI's Language Learning Models (LLMs) via LangChain to enable users to query their datasets with natural language prompts. It integrates the SERP API for real-time web searches to enhance dataset analysis by fetching and extracting relevant information from the internet.
