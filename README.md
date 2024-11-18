@@ -13,6 +13,7 @@ Created an interactive Streamlit application that leverages OpenAI's Language Le
 - Upload a CSV file.
 - Select a column for placeholders.
 - Enter a custom prompt.
+- While entering a custom prompt, in place of column name use "{placeholder}".
 
 ## Third-Party Tools:
 - LangChain: For LLM integration.
